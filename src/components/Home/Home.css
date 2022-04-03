@@ -1,3 +1,14 @@
-.nav{
-    color: rebeccapurple;
+.product{
+    display: flex;
+
+}
+.product-details{
+    margin: 7em;
+    text-align: left;
+}
+h1{
+    color: royalblue;
+}
+.product img{
+    margin: 3.5em;
 }
