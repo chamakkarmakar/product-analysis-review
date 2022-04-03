@@ -4,7 +4,7 @@ import './Home.css';
 const Home = () => {
     return (
         <div>
-            <Nav className="nav-bar justify-content-center bg-light p-2 my-5 mx-5" defaultActiveKey="/home">
+            <Nav className="nav-bar justify-content-center bg-light p-2 my-5 mx-auto" defaultActiveKey="/home">
                 <Nav.Item>
                     <Nav.Link href="/home">HOME</Nav.Link>
                 </Nav.Item>
