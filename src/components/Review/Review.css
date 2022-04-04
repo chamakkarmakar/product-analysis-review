@@ -1,0 +1,8 @@
+.card img{
+    width: 7em;
+    height: 5em;
+
+}
+.review-details{
+    display: flex;
+}

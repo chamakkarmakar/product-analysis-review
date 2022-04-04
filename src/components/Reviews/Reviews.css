@@ -1,4 +1,7 @@
-img{
-    width: 5em;
-    height: 7em;
+.review-card{
+    margin: 2.5em 0;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 2em;
+    row-gap: 3em;
 }
