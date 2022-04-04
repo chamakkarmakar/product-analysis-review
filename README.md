@@ -1,6 +1,11 @@
 # Live Site
 [ Live Site of This Project ](https://iridescent-mooncake-ef1f54.netlify.app/)
-# Getting Started with Create React App
+
+# About This Project
+* This is Product review Site
+* User gives review of the product
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
