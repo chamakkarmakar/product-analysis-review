@@ -8,7 +8,7 @@ const Reviews = () => {
     const [reviews,setReviews] = useReviews();
     return (
         <div className='w-75 mx-auto'>
-            <h1>Review Page</h1>
+            <h2>All Reviews</h2>
             <div className="review-card">
             {
                 reviews.map(review => <Review

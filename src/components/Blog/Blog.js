@@ -5,7 +5,6 @@ import './Blog.css';
 const Blog = () => {
     return (
         <div>
-            <h1>Blog Page</h1>
             <Accordion className='w-50 mx-auto my-5'>
                 <Accordion.Item eventKey="0">
                     <Accordion.Header>What is Context API?</Accordion.Header>

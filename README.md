@@ -2,8 +2,10 @@
 [ Live Site of This Project ](https://iridescent-mooncake-ef1f54.netlify.app/)
 
 # About This Project
-* This is Product review Site
-* User gives review of the product
+* This is Product Review Site
+* This site hosts reviews to help consumers shop with confidence
+* The consumers share their own opinions about product
+* Show the monthly sell of the product and also investment vs revenue
 
 ## Getting Started with Create React App
 

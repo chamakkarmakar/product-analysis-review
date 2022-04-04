@@ -10,13 +10,14 @@ const Home = () => {
         <div>
             <section className='product'>
                 <div className='product-details'>
-                    <h1>Laptop Review</h1>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Est accusamus optio, sit ullam placeat facere error molestiae reprehenderit quae voluptatibus?</p>
+                    <h1>Apple M1 iMAC (24-inch)</h1>
+                    <h3>The best 'starter' Mac for creators</h3>
+                    <p>Apple's first M1-equipped iMac delivers speed, beauty, and great sound in a slim new design. Apple's new M1-equipped 24-inch iMac is a slender-yet-speedy machine packing great speakers, an excellent webcam and a beautiful screen.</p>
                 </div>
                 <img src="https://miro.medium.com/max/1400/1*cZikV2VdYYwMToTeOSeKGQ.png" alt="" />
             </section>
             <section className='review'>
-                <h1>Customer Review</h1>
+                <h2>Customer Review</h2>
                 <div className='customer-review'>
                 {
                     customerReviews.map(review => <Review

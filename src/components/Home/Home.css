@@ -1,5 +1,6 @@
 .product{
     display: flex;
+    flex-direction: row;
 }
 .product img{
     width: 650px;
@@ -7,11 +8,18 @@
 }
 .product-details{
     margin-top: 7em;
+    margin-left: 4em;
     text-align: left;
+}
+h2{
+    color: royalblue;
+    text-align: center;
 }
 h1{
     color: royalblue;
-    text-align: center;
+}
+h3{
+    color: cadetblue;
 }
 .customer-review{
     margin: 2.5em 0;
@@ -39,4 +47,8 @@ h1{
         display: grid;
         grid-template-columns: 1fr;
     }
+    .product{
+        flex-direction: column-reverse;
+    }
+
 }
