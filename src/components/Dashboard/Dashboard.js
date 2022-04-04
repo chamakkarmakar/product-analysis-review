@@ -14,7 +14,7 @@ const Dashboard = () => {
 
             <div className="chart">
                 <h5>Monthly Sell</h5>
-                <LineChart width={450} height={300} data={chart}>
+                <LineChart width={400} height={300} data={chart}>
                     <XAxis dataKey="month" />
                     <YAxis />
                     <Line type="monotone" dataKey="sell" stroke="#8884d8" strokeWidth={2} />
@@ -25,7 +25,7 @@ const Dashboard = () => {
 
             <div className="chart">
                 <h5>Invesment VS Revenue</h5>
-                <AreaChart width={450} height={300} data={chart}>
+                <AreaChart width={400} height={300} data={chart}>
                     <CartesianGrid strokeDasharray="3 3" />
                     <XAxis dataKey="month" />
                     <YAxis />
@@ -38,7 +38,7 @@ const Dashboard = () => {
 
             <div className="chart">
             <h5>Invesment VS Revenue</h5>
-                <BarChart width={450} height={300} data={chart}>
+                <BarChart width={400} height={300} data={chart}>
                     <CartesianGrid strokeDasharray="3 3" />
                     <XAxis dataKey="month" />
                     <YAxis />

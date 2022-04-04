@@ -14,7 +14,7 @@ const Home = () => {
                     <h3>The best 'starter' Mac for creators</h3>
                     <p>Apple's first M1-equipped iMac delivers speed, beauty, and great sound in a slim new design. Apple's new M1-equipped 24-inch iMac is a slender-yet-speedy machine packing great speakers, an excellent webcam and a beautiful screen.</p>
                 </div>
-                <img src="https://miro.medium.com/max/1400/1*cZikV2VdYYwMToTeOSeKGQ.png" alt="" />
+                <img src="https://cdn.shopify.com/s/files/1/1706/9177/products/imac-24-blue-gallery-2_71cd39ed-88bc-446b-bc36-a1a46eaa3b47.jpg?v=1635953262" alt="" />
             </section>
             <section className='review'>
                 <h2>Customer Review</h2>

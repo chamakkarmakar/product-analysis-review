@@ -1,11 +1,9 @@
 .charts{
-    margin: 2em 5em 2em 8em;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
 }
 .chart{
-    margin-top: 2.5em;
-    margin-right: 7em;
+    margin: 0 auto 2.5em auto;
 }
 .chart h5{
     color: rebeccapurple;
@@ -13,7 +11,8 @@
 }
 @media only screen and (max-width: 767px) {
     .charts {
-        margin: 2.5em;
         grid-template-columns: 1fr;
+        overflow-x: hidden;
     }
+    
 }

@@ -8,11 +8,11 @@ const Header = () => {
       <Navbar.Toggle />
       <Navbar.Collapse>
       <Nav className="justify-content-center bg-light w-75 p-2 my-5 mx-auto" activeKey="/home">
-        <Nav.Link href="/home"><h5>HOME</h5></Nav.Link>
-        <Nav.Link href="/reviews"><h5>REVIEWS</h5></Nav.Link>
-        <Nav.Link href="/dashboard"><h5>DASHBOARD</h5></Nav.Link>
-        <Nav.Link href="/blog"><h5>BLOG</h5></Nav.Link>
-        <Nav.Link href="/about"><h5>ABOUT</h5></Nav.Link>
+        <Nav.Link href="/home">< h6>HOME</ h6></Nav.Link>
+        <Nav.Link href="/reviews">< h6>REVIEWS</ h6></Nav.Link>
+        <Nav.Link href="/dashboard">< h6>DASHBOARD</ h6></Nav.Link>
+        <Nav.Link href="/blog">< h6>BLOG</ h6></Nav.Link>
+        <Nav.Link href="/about">< h6>ABOUT</ h6></Nav.Link>
       </Nav>
       </Navbar.Collapse>
     </Navbar>
