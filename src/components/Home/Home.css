@@ -1,9 +1,12 @@
 .product{
     display: flex;
-
+}
+.product img{
+    width: 650px;
+    height: 500px;
 }
 .product-details{
-    margin: 7em;
+    margin-top: 7em;
     text-align: left;
 }
 h1{
@@ -16,4 +19,24 @@ h1{
     grid-template-columns: repeat(3, 1fr);
     column-gap: 2em;
     row-gap: 3em;
+}
+.review{
+    margin: 3em 8em;
+}
+.btn-review{
+    width: 15em;
+    background-color: tan;
+    border: none;
+    padding: .5em 3em;
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: 18px;
+    border-radius: 15px;
+}
+@media only screen and (max-width: 767px) {
+    .customer-review {
+        margin: 2.5em 0;
+        display: grid;
+        grid-template-columns: 1fr;
+    }
 }

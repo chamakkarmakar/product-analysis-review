@@ -1,44 +1,44 @@
 [
-    {
-      "id": 1,
-      "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      "name": "Ginger Hoover",
-      "rating": 4,
-      "review": "I think that you people are very very nice and I appreciate your business as well"
-    },
-    {
-      "id": 2,
-      "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      "name": "Shauna Bennett",
-      "rating": 3,
-      "review": "I think that you people are very very nice and I appreciate your business as well"
-    },
-    {
-      "id": 3,
-      "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      "name": "Cain Phillips",
-      "rating": 3,
-      "review": "I think that you people are very very nice and I appreciate your business as well"
-    },
-    {
-      "id": 4,
-      "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      "name": "Adrienne Frost",
-      "rating": 4,
-      "review": "I think that you people are very very nice and I appreciate your business as well"
-    },
-    {
-      "id": 5,
-      "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      "name": "Aisha Edwards",
-      "rating": 3,
-      "review": "I think that you people are very very nice and I appreciate your business as well"
-    },
-    {
-      "id": 6,
-      "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      "name": "Stevenson Mccray",
-      "rating": 4,
-      "review": "I think that you people are very very nice and I appreciate your business as well"
-    }
-  ]
+  {
+    "id": 1,
+    "img": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/7fd68a8c-8cf3-4d87-98ec-81bb8006f02f._CR62,0,375,375_SX48_.jpg",
+    "name": "Rolando Pizarro",
+    "rating": 5,
+    "review": "I ordered the iMac since the spring loaded event and it goes above my expectations. The screen is sharp, the colors are great (I got the blue one!) and the performance is blazing fast for my normal use as a college student. It’s simply that good."
+  },
+  {
+    "id": 2,
+    "img": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png",
+    "name": "daviddiy",
+    "rating": 4.8,
+    "review": "I'm downsizing from a 27in iMac to this 24in and I can hardly tell the difference. Every video I watch on the screen is smooth, vivid, and clear. Due to the new Apple M1 chip, 4K videos play without any lag and no matter how many apps I’m using, this computer doesn't even stutter."
+  },
+  {
+    "id": 3,
+    "img": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/620628a1-87de-4cbb-99b9-7bc9c5d971c0._CR2,0,495,495_SX48_.jpg",
+    "name": "Cain Phillips",
+    "rating": 5,
+    "review": "Let me begin by saying the obvious: There is nothing like the Mac Experience. If you're using a PC, I'm sorry. Perhaps one day you will see the light. The iMac I purchased is beautiful in every way, and I have no complaints at all."
+  },
+  {
+    "id": 4,
+    "img": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/a3fc5ca7-d3c6-4a7d-8505-26544fac8586._CR0,26.0,281,281_SX48_.jpg",
+    "name": "Jason A Greenhalgh",
+    "rating": 4,
+    "review": "I was very happy that Apple decided to issue colors on their new iMacs. I got the blue one and I can't be more happy with my purchase. I have always loved the apple designs and this new thinner iMac is amazing. "
+  },
+  {
+    "id": 5,
+    "img": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/e3655374-7336-4c89-8b32-45950b203d22._CR0,0,499,499_SX48_.jpg",
+    "name": "Kevin R.",
+    "rating": 4,
+    "review": "It's a Mac, so that's good, but my other Mac that was more than 10 years old was just about as good."
+  },
+  {
+    "id": 6,
+    "img": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/cfa1e0a5-af2f-4b42-806c-a5d9fba38941._CR0,0,500,500_SX48_.jpg",
+    "name": "MMZT",
+    "rating": 5,
+    "review": "This is my very first Mac, this is base unit, I just surf around reading news, shopping online, chatting with family and friends. But it opens pages instantly it's fast and the screen is big, sound is good it could have more volume, I like the keyboard & the Magic Mouse."
+  }
+]

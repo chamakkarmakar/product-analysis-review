@@ -10,20 +10,19 @@ const Blog = () => {
                 <Accordion.Item eventKey="0">
                     <Accordion.Header>What is Context API?</Accordion.Header>
                     <Accordion.Body>
-                    Context API is the way to create global variables that can be passed around the component tree. Context API is an alternative to passing props manually in a component tree. Something that is also called Prop drilling.
+                    The context API helps the React Application to effectively produce global variables that can be used anywhere of the application. context is basically a component of React that can wrap a part or entire component tree. context provides API that helps to create context object, sharing states between themselves. The component can specify a value prop, which will be available to all nested components. Elements inside the components are calles consumer in this case. The main motto of the context API is to serve better in a small scope of sharing states.
                     </Accordion.Body>
                 </Accordion.Item>
                 <Accordion.Item eventKey="1">
                     <Accordion.Header>What is Semantic tag?</Accordion.Header>
                     <Accordion.Body>
-                    Semantic HTML elements are those that clearly describe their meaning in a human- and machine-readable way. Elements such as header , footer and article are all considered semantic because they accurately describe the purpose of the element and the type of content that is inside them
+                    The Tags that clearly defined its contents or objectives are called Semantic Tags. Most of the semantic tags are introduced in HTML 5. There are several advantages of using these elements. When a semantic tag is applied, the developer will have a clear undertanding of which tag is responsible for which functionality. Some of the examples of smantic tags are <strong>article,section,nav</strong> etc.
                     </Accordion.Body>
                 </Accordion.Item>
                 <Accordion.Item eventKey="2">
                     <Accordion.Header>Inline Element vs Block Element</Accordion.Header>
                     <Accordion.Body>
-                   <strong>Block Element:</strong> They consume the entire width available irrespective of their sufficiency. They always start in a new line and have top and bottom margins. It does not contain any other elements next to it. <br />
-                   <strong>Inline elements:</strong> Inline elements occupy only enough width that is sufficient to it and allows other elements next to it which are inline. Inline elements don't start from a new line and don't have top and bottom margins as block elements have.
+                    <strong>Block elements</strong> are start with new line. On the other hands, <strong>Inline elements</strong> do not start with new line, it can be placed withing a block element also. <strong>Block element</strong> takes the available full width. Whereas <strong>Inline element</strong> takes only the width required for this element. Some example of the <strong>Block elements</strong> are p,h1-h6 etc. Example of the <strong>Inline elements</strong> are a,img etc. 
                     </Accordion.Body>
                 </Accordion.Item>
             </Accordion>
