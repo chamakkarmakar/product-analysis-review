@@ -1,0 +1,13 @@
+.charts{
+    margin: 2em 5em 2em 8em;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+.chart{
+    margin-top: 4em;
+    margin-right: 7em;
+}
+.chart h5{
+    color: rebeccapurple;
+    text-align: center;
+}
